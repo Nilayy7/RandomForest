@@ -81,3 +81,4 @@ MDSplot(rf1, Companydata$hsales)
 hist(treesize(rf),main = "Number of Nodes",col = 'yellow')
 hist(treesize(rf1),main = "Number of Nodes",col = 'red')
 
+#This histogram tell us majority of trees have nodes more than 60
